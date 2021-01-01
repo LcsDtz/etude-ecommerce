@@ -208,14 +208,7 @@ CREATE TABLE `client` (
 --
 
 INSERT INTO `client` (`ID_Client`, `Nom_Client`, `Pseudo`, `Mdp`, `Numero`, `Rue`, `CP`, `Ville`, `Mail`, `Tel`) VALUES
-(1, 'pierre paul', 'pierre', 'pierre', 8, 'pierre', 58962, 'pierre', 'pierre@pierre.fr', 5298756),
-(2, 'pierre paul', 'jean', 'pierre', 8, 'pierre', 58962, 'pierre', 'pierre@pierre.fr', 5298756),
-(3, 'test', 'test', 'test', 4, 'test', 59195, 'herin', 'sdjsjd@live.fr', 625498960),
-(4, 'test', 'test', 'test', 4, 'test', 59195, 'herin', 'sdjsjd@live.fr', 625498960),
-(5, 'FBsdfgdsg', 'sdrgssg', 'da55c12a477cd9631a1f2f6096a6965d', 8, 'zfs', 58520, 'dgsg', 'dsfgs@sdg.fr', 658987854),
-(6, 'Paul Chirac', 'Pdedede', 'da55c12a477cd9631a1f2f6096a6965d', 8, 'doreil', 59303, 'dore', 'ede@lo.fr', 685758475),
-(7, 'Paul Chirac', 'Pdededezdzd', 'da55c12a477cd9631a1f2f6096a6965d', 8, 'doreil', 59303, 'dore', 'eddzde@lo.fr', 685758475),
-(8, 'Paul michou', 'admin', '21232f297a57a5a743894a0e4a801fc3', 8, 'ferferf', 59874, 'dfvdfv', 'gsdfgdfg@fdg.fr', 658774852);
+(8, 'Pierre Dupont', 'admin', '21232f297a57a5a743894a0e4a801fc3', 8, 'ferferf', 59874, 'dfvdfv', 'gsdfgdfg@fdg.fr', 658774852);
 
 -- --------------------------------------------------------
 
